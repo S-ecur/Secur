@@ -169,7 +169,7 @@ black src/
 
 ## Contact
 
- [Twitter](https://x.com/Secur_Ai)
+[Twitter](https://x.com/Secur_agency)
 
 ## Acknowledgments
 
